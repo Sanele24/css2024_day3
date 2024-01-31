@@ -1,1 +1,3 @@
-# css2024_day3
+# css2024_day2
+
+this is actually day 2 
